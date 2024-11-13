@@ -40,7 +40,7 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/your-username/tic-tac-toe-game.git
+[git clone https://github.com/your-username/tic-tac-toe-game.git](https://github.com/Rajendra37113/Tic-Tac-Toe-Game?tab=readme-ov-file)
 Navigate to the Project Folder:
 
 bash
