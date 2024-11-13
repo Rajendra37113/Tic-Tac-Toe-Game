@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-Rajendra37113/Tic-Tac-Toe-game.git
+[git clone https://github.com/your-Rajendra37113/Tic-Tac-Toe-game.git](https://github.com/Rajendra37113/Tic-Tac-Toe-Game?tab=readme-ov-file)
 Navigate to the Project Folder:
 
 bash
